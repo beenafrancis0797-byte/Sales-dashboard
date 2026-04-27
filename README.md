@@ -26,8 +26,8 @@ This project answers these questions through exploratory data analysis (EDA), st
 ```
 sales-dashboard/
 │
-├── sales_dashboard.py       # Main analysis script
-├── Sales Dashboard.ipynb    # Jupyter Notebook version (with outputs)
+
+├── Sales_Dashboard.ipynb    # Jupyter Notebook (code + charts + insights)
 │                            # Superstore.csv — not included, download separately
 ├── outputs/
 │   ├── monthly_trend.png
@@ -148,7 +148,7 @@ jupyter>=1.0.0
 
 ## 🙋 About
 
-Built by **[Your Name]** | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [GitHub](https://github.com/YOUR_GITHUB)
+Built by **Anto Valar Beena F** | [LinkedIn](https://linkedin.com/in/beena-francis-670647317) | [GitHub](https://github.com/beenafrancis0797-byte)
 
 *Part of my Data Analyst Portfolio — open to data analyst / business analyst roles.*
 
